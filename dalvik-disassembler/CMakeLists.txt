@@ -9,7 +9,7 @@ find_package(KUNAI REQUIRED)
 find_package(Threads REQUIRED)
 
 add_executable(
-    dalvik-disassembler
+    ${PROJECT_NAME}
     dalvik-disassembler.cpp
 )
 

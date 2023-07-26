@@ -1,3 +1,9 @@
 [submodule "old/external/zip"]
 	path = old/external/zip
 	url = https://github.com/kuba--/zip.git
+[submodule "kunai-lib/externals/spdlog"]
+	path = kunai-lib/externals/spdlog
+	url = ../../gabime/spdlog.git
+[submodule "kunai-lib/externals/zip"]
+	path = kunai-lib/externals/zip
+	url = ../../kuba--/zip.git

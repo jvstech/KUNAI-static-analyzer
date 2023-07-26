@@ -40,6 +40,10 @@ apks/
 objs/
 bin/
 
+# Visual Studio
+.vs
+out/
+
 # visual studio code
 .vscode/
 
@@ -60,3 +64,6 @@ build/
 
 # from testing
 Testing/
+
+# CMake user presets
+CMakeUserPresets.json
